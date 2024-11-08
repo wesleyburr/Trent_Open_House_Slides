@@ -1,0 +1,170 @@
+---
+title: "Mathematics, Statistics & Financial Science"
+author: 'Wesley S. Burr -- <a href="http://www.trentu.ca/math/">Trent University</a> <br> <a href="http://github.com/wesleyburr"><i class="fa fa-github fa-fw"></i>&nbsp; wsburr</a><br> <a href="mailto:wesleyburr@trentu.ca"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; wesleyburr@trentu.ca</a><br><br/>'
+date: 2024-11-08
+output:
+  xaringan::moon_reader:
+    chakra: remark-latest.min.js
+    lib_dir: libs
+    nature:
+      highlightStyle: tomorrow-night-bright
+      highlightLines: true
+      highlightLanguage: r
+    includes:
+      in_header: header.html
+    countIncrementalSlides: false
+    css: example.css
+---
+
+class: inverse
+
+```{r include=FALSE}
+library(ggplot2)
+filter <- dplyr::filter
+knitr::opts_chunk$set(warning=FALSE, message=FALSE, fig.width=10.5, fig.height=4, 
+  comment=NA, rows.print=16)
+theme_set(theme_gray(base_size = 24))
+```
+
+## Department of Mathematics \& Statistics
+
+* in the Faculty of Sciences
+* 11 faculty in areas ranging from algebra, analysis and discrete math to
+finance, statistics, and applied math
+* housed with Gzowski College in Enwaayang (3rd floor)
+
+---
+
+class: inverse
+
+## Degrees
+
+* BSc in Mathematical Economics (joint MATH/ECON) or in Mathematical Physics (joint MATH/PHYS)
+<br />
+
+* BSc in Mathematics (single-major, dual-major honours; single-major, dual-major general; minor)
+  * Specializations in Mathematical Finance or Statistics (all MATH)
+<br />  
+
+* BSc in Financial Science (joint MATH/ADMN/ECON)
+
+---
+
+class: inverse
+
+## The First Year
+
+In your first year, regardless of which of the above paths you take,
+there are four required courses:
+
+<br />
+
+* MATH 1110H - Calculus I
+* MATH 1120H - Calculus II
+* MATH 1350H - Linear Algebra I: Matrix Algebra
+* MATH 1550H - Probability I: Introduction to Probability
+
+<br/>
+
+In addition, there are two courses, MATH 1051H and 1052H, on non-calculus
+statistics, which are optional and do not count toward any of the above degrees.
+
+---
+
+class: inverse
+
+## The Second Year
+
+In your second year, things start to change, based on your program. Most
+of the streams and programs will still take:
+
+* MATH 2110H - Calculus III
+* MATH 2120H - Calculus IV
+
+<br />
+
+* MATH 2150H - Ordinary Differential Equations (not *required* for Mathematics majors)
+* MATH 2200H - Mathematical Reasoning (not for Mathematical Physics)
+
+<br />
+
+* MATH 2350H - Algebra II: Vector Spaces
+* MATH 2560H - Statistics I: Mathematical Statistics
+
+---
+
+class: inverse
+
+## Upper Years
+
+Once you reach upper-year, aside from the requirement that you take a certain
+number of courses, your choices are almost unlimited. If you are a math
+major, you specialize in any two of the following; if you are in one of the
+other degrees, you simply take a selection of courses from:
+
+<br />
+
+Algebra, Analysis, Discrete Mathematics, Statistics, Applied Mathematics,
+Finance
+
+<br />
+The Mathematics program also has a mandatory 4th year course: MATH 4800H.
+Financial Science has three required courses: MATH 3510H, 3560H and 4510H. 
+
+---
+
+class: inverse
+
+## Department Culture
+
+* small, friendly, welcoming
+* Student Help Center is a great hub
+* lots of open doors, you *will* get to know your professors
+
+<br />
+
+* second-year classes of size 30-60
+* third- and fourth-year classes range from 10-30
+
+---
+
+class: inverse
+
+## Internships and Co-ops
+
+* Internship course available for the BSc in Mathematics - Summers, 3rd and 4th year
+* co-op stream available for the BSc in Financial Science - Summer of 2nd year,
+Summer of 3rd year, and Fall of 4th year
+* opportunities for working as a grader or lab demonstrator for the department,
+as well as Student Help Center representative
+* community research projects and thesis projects for hands-on learning
+
+---
+
+class: inverse
+
+## New and Exciting
+
+* Financial Intelligence & Innovation Hub
+* experiential learning opportunities; certificate possibility
+* integrated data management and collection into Mathematical Finance, Statistics, and Financial Science options
+
+
+---
+
+layout: false
+class: inverse, middle
+
+<center>
+<a href="http://www.trentu.ca/math/"><img src="figure/trent.png" style="width: 200px;"/></a> &emsp;&emsp;
+<a href="https://creativecommons.org/licenses/by/4.0/"><img src="figure/cc.png" style="width: 200px;"/></a>
+
+<br/> &nbsp;
+<br/> &nbsp;
+
+I hope to see you next year!
+
+</center>
+
+
+<br/>
