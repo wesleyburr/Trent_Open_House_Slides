@@ -1,7 +1,6 @@
 ---
 title: "Mathematics, Statistics & Financial Science"
 author: 'Wesley S. Burr -- <a href="http://www.trentu.ca/math/">Trent University</a> <br> <a href="http://github.com/wesleyburr"><i class="fa fa-github fa-fw"></i>&nbsp; wsburr</a><br> <a href="mailto:wesleyburr@trentu.ca"><i class="fa fa-paper-plane fa-fw"></i>&nbsp; wesleyburr@trentu.ca</a><br><br/>'
-date: 2024-11-08
 output:
   xaringan::moon_reader:
     chakra: remark-latest.min.js
@@ -29,7 +28,7 @@ theme_set(theme_gray(base_size = 24))
 ## Department of Mathematics \& Statistics
 
 * in the Faculty of Sciences
-* 11 faculty in areas ranging from algebra, analysis and discrete math to
+* 12 faculty in areas ranging from algebra, analysis and discrete math to
 finance, statistics, and applied math
 * housed with Gzowski College in Enwaayang (3rd floor)
 
@@ -59,8 +58,8 @@ there are four required courses:
 
 <br />
 
-* MATH 1110H - Calculus I
-* MATH 1120H - Calculus II
+* MATH 1110H or 1111H - Calculus I
+* MATH 1120H or 1121H - Calculus II
 * MATH 1350H - Linear Algebra I: Matrix Algebra
 * MATH 1550H - Probability I: Introduction to Probability
 
